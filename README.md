@@ -16,9 +16,17 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.Portfolio&logoColor=white"></a>
 </p>
 <p align="left">
+    <img alt="github"
+        src="https://img.icons8.com/arcade/64/null/github.png"/></a>
     <img alt="javascript"
-        src="https://img.icons8.com/arcade/64/null/javascript.png"/>"></a>
-
+        src="https://img.icons8.com/arcade/64/null/javascript.png"/></a>
+    <img alt="nodejs"
+        src="https://img.icons8.com/color/48/null/nodejs.png"/></a>
+    <img alt="mongodb"
+        src="https://img.icons8.com/color/48/null/mongodb.png"/></a>
+    <img alt="expressjs"
+        src="https://img.icons8.com/ios/50/null/express-js.png"/></a>
+</p>
 
 
 
