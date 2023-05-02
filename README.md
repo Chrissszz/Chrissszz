@@ -20,14 +20,14 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
         src="https://img.icons8.com/arcade/64/null/github.png"/>
     <img alt="javascript"
         src="https://img.icons8.com/arcade/64/null/javascript.png"/>
-    <img alt="nodejs"
-        src="https://img.icons8.com/color/48/null/nodejs.png"/>
     <img alt="mongodb"
         src="https://img.icons8.com/color/48/null/mongodb.png"/>
     <img alt="expressjs"
         src="https://img.icons8.com/ios/50/null/express-js.png"/>
     <img alt="reactjs"
         src="https://img.icons8.com/dotty/64/null/react.png"/>
+    <img alt="nodejs"
+        src="https://img.icons8.com/color/48/null/nodejs.png"/>
 </p>
 
 
