@@ -15,8 +15,9 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
         <img alt="portfolio website"
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.Portfolio&logoColor=white"></a>
 </p>
+<p align="left">
     <img alt="javascript"
-        src="https://icons8.com/icon/Nkym0Ujb8VGI/javascript"></a>
+        src="https://img.icons8.com/arcade/64/null/javascript.png"/>"></a>
 
 
 
