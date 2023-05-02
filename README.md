@@ -7,4 +7,4 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
 <p align="left">
     <a href="https://www.linkedin.com/in/christianbacct/">
         <img alt="linkedin account"
-        src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?logo=person-add&style=social&logoColor=blue"/></a>
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
