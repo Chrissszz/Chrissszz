@@ -4,7 +4,7 @@
 
 Hey there! I'm a full stack software engineer who loves building and modifying websites for desktop and mobile use. I utilize Html, Css, JavaScript, Node, Express, MongoDB, and React to get the job done. But most importantly, I'm always excited to meet new people and communities to work with. And, as someone who loves problem-solving, I'm passionate about creating innovative solutions that fit the specific needs of each project and its users.
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/christianbacct/">
         <img alt="linkedin account"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
@@ -15,7 +15,7 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
         <img alt="portfolio website"
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.Portfolio&logoColor=white"></a>
 </p>
-<p align="left">
+<p align="center">
     <img alt="github"
         src="https://img.icons8.com/arcade/64/null/github.png"/></a>
     <img alt="javascript"
