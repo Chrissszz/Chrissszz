@@ -35,7 +35,6 @@ Hey there! I'm a full stack software engineer who loves building and modifying w
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chrissszz's streak" src="https://streak-stats.demolab.com/?user=Chrissszz&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 
